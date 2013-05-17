@@ -81,6 +81,8 @@ Clone this repository recursively into your `PLUGIN_PATH`. If you have not set a
     cd plugins
     git clone --recursive git@github.com:sobhe/pelican-jalali.git
 
+Make sure that you clone the plugin with **--recursive**, because it contains a submodule.
+
 Now you need to edit your config and activate the plugin.
 
 Add this to the end of `pelicanconf.py`:
