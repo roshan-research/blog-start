@@ -1,6 +1,6 @@
 ## Getting Started
 
-If you want to create a [pelican](http://getpelican.com) blog, which is ready for blogging in **Farsi**, you can use .
+If you want to create a [pelican](http://getpelican.com) blog, which is ready for blogging in **Farsi**, you can use here as a starting point.
 
 ### What you will get
 
@@ -113,7 +113,7 @@ make serve
 
 Then open a browser and navigate to <http://localhost:8000/>. You must see something like:
 
-![image](http://https://raw.github.com/sobhe/pelican-sobhe/gh-pages/screenshot/bare.png)
+![image](https://raw.github.com/sobhe/pelican-sobhe/gh-pages/screenshot/bare.png)
 
 #### 7. Going forward
 
